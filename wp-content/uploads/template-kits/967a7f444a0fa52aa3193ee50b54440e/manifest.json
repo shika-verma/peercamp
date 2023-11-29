@@ -1,0 +1,639 @@
+{
+    "manifest_version": "1.0.21",
+    "title": "Flashnet - Broadband & Telecom Internet Provider Elementor Template kit",
+    "page_builder": "elementor",
+    "kit_version": "1.0.0",
+    "templates": [
+        {
+            "name": "Global Kit Styles",
+            "screenshot": "screenshots\/global-kit-styles.jpg",
+            "source": "templates\/global.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "global-styles",
+                "include_in_zip": "1",
+                "elementor_pro_required": null,
+                "additional_template_information": [
+                    "These are the global theme styles configured through the Elementor Theme Styles area."
+                ]
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Footer",
+            "screenshot": "screenshots\/footer.jpg",
+            "source": "templates\/footer.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/footer\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-footer",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Header",
+            "screenshot": "screenshots\/header.jpg",
+            "source": "templates\/header.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/header\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-header",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact Form - Block",
+            "screenshot": "screenshots\/contact-form-block.jpg",
+            "source": "templates\/contact-form-block.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/contact-form-block\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Registration Form - Block",
+            "screenshot": "screenshots\/registration-form-block.jpg",
+            "source": "templates\/registration-form-block.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/registration-form-section\/",
+            "type": "section",
+            "category": "section",
+            "metadata": {
+                "template_type": "section-contact",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Contact",
+            "screenshot": "screenshots\/contact.jpg",
+            "source": "templates\/contact.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/contact\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "FAQ",
+            "screenshot": "screenshots\/faq.jpg",
+            "source": "templates\/faq.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/faq\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Post",
+            "screenshot": "screenshots\/single-post.jpg",
+            "source": "templates\/single-post.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/single-post\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Blog Archives",
+            "screenshot": "screenshots\/blog-archives.jpg",
+            "source": "templates\/blog-archives.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/blog-archives\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Single Service",
+            "screenshot": "screenshots\/single-service.jpg",
+            "source": "templates\/single-service.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/single-service\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Services",
+            "screenshot": "screenshots\/services.jpg",
+            "source": "templates\/services.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/services\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Packages",
+            "screenshot": "screenshots\/packages.jpg",
+            "source": "templates\/packages.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/package\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "About",
+            "screenshot": "screenshots\/about.jpg",
+            "source": "templates\/about.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/about\/",
+            "type": "page",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-page",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        },
+        {
+            "name": "Homepage",
+            "screenshot": "screenshots\/homepage.jpg",
+            "source": "templates\/homepage.json",
+            "preview_url": "https:\/\/tykit.rometheme.pro\/flashnet\/template-kit\/homepage\/",
+            "type": "section",
+            "category": "page",
+            "metadata": {
+                "template_type": "single-home",
+                "include_in_zip": "1",
+                "elementor_pro_required": null
+            },
+            "elementor_pro_required": false
+        }
+    ],
+    "required_plugins": [
+        {
+            "name": "Elementor",
+            "version": "3.6.5",
+            "file": "elementor\/elementor.php",
+            "author": "Elementor.com"
+        },
+        {
+            "name": "ElementsKit Lite",
+            "version": "2.5.7",
+            "file": "elementskit-lite\/elementskit-lite.php",
+            "author": "Wpmet"
+        },
+        {
+            "name": "MetForm",
+            "version": "2.1.6",
+            "file": "metform\/metform.php",
+            "author": "Wpmet"
+        }
+    ],
+    "images": [
+        {
+            "filename": "logo1.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/logo1.1.png",
+            "templates": [
+                {
+                    "source": "templates\/footer.json",
+                    "name": "Footer"
+                },
+                {
+                    "source": "templates\/header.json",
+                    "name": "Header"
+                }
+            ],
+            "filesize": 11330,
+            "dimensions": [
+                700,
+                232
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Bgs4.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/Bgs4-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/contact.json",
+                    "name": "Contact"
+                },
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                },
+                {
+                    "source": "templates\/blog-archives.json",
+                    "name": "Blog Archives"
+                },
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 54161,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Bgs1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/Bgs1-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 33807,
+            "dimensions": [
+                1920,
+                1280
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "portrait-of-positive-and-successful-caucasian-fema-2022-02-03-07-47-31-utc.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/portrait-of-positive-and-successful-caucasian-fema-2022-02-03-07-47-31-utc.png",
+            "templates": [
+                {
+                    "source": "templates\/faq.json",
+                    "name": "FAQ"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 239849,
+            "dimensions": [
+                486,
+                486
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/portrait-of-positive-and-successful-caucasian-fema-LXMRH4W"
+        },
+        {
+            "filename": "cheerful-employee-browsing-internet-on-smartphone-2021-08-30-02-25-57-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/cheerful-employee-browsing-internet-on-smartphone-2021-08-30-02-25-57-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-post.json",
+                    "name": "Single Post"
+                }
+            ],
+            "filesize": 252752,
+            "dimensions": [
+                864,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-employee-browsing-internet-on-smartphone--2BF749C"
+        },
+        {
+            "filename": "Bgs2.1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/Bgs2.1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 29993,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "Globe1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/Globe1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                }
+            ],
+            "filesize": 254917,
+            "dimensions": [
+                972,
+                972
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vector-dotted-world-map-4MLXK3M"
+        },
+        {
+            "filename": "World-Map.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/World-Map-800x533.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                }
+            ],
+            "filesize": 266437,
+            "dimensions": [
+                1152,
+                768
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "no",
+            "image_urls": "https:\/\/elements.envato.com\/vector-dotted-world-map-4MLXK3M"
+        },
+        {
+            "filename": "bg1.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/bg1-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 62350,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "internet-shopping-cheerful-mature-man-shopping-on-2021-09-02-04-13-01-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/internet-shopping-cheerful-mature-man-shopping-on-2021-09-02-04-13-01-utc-800x533.jpg",
+            "templates": [
+                {
+                    "source": "templates\/single-service.json",
+                    "name": "Single Service"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 253404,
+            "dimensions": [
+                864,
+                576
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/internet-shopping-cheerful-mature-man-shopping-onl-TXZCWHH"
+        },
+        {
+            "filename": "Bgs3.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/Bgs3-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/packages.json",
+                    "name": "Packages"
+                },
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 28927,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "bg2.2.png",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/bg2.2-800x800.png",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 47428,
+            "dimensions": [
+                1080,
+                1080
+            ],
+            "image_source": "self_created",
+            "person_or_place": "no",
+            "image_urls": ""
+        },
+        {
+            "filename": "happy-child-learning-internet-2021-09-24-03-52-52-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/happy-child-learning-internet-2021-09-24-03-52-52-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/services.json",
+                    "name": "Services"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 258477,
+            "dimensions": [
+                730,
+                487
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-child-learning-internet-SAEWC6M"
+        },
+        {
+            "filename": "cheerful-asian-couple-using-digital-tablet-browsin-2021-08-29-10-49-39-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/cheerful-asian-couple-using-digital-tablet-browsin-2021-08-29-10-49-39-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/about.json",
+                    "name": "About"
+                },
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 240422,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/cheerful-asian-couple-using-digital-tablet-browsin-FH4LJ3H"
+        },
+        {
+            "filename": "family-gadgets-concept-happy-father-showing-new-a-2021-09-02-07-18-09-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/family-gadgets-concept-happy-father-showing-new-a-2021-09-02-07-18-09-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 251316,
+            "dimensions": [
+                730,
+                487
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/family-gadgets-concept-happy-father-showing-new-ap-7WAKZQ5"
+        },
+        {
+            "filename": "internet-is-a-great-solution-to-find-an-inspiratio-2021-08-26-20-15-53-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/internet-is-a-great-solution-to-find-an-inspiratio-2021-08-26-20-15-53-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 265668,
+            "dimensions": [
+                672,
+                448
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/internet-is-a-great-solution-to-find-an-inspiratio-M7DDDXD"
+        },
+        {
+            "filename": "happy-middle-eastern-couple-searching-new-furnitur-2021-09-02-04-57-13-utc.jpg",
+            "thumbnail_url": "http:\/\/tykit.rometheme.pro\/flashnet\/wp-content\/uploads\/sites\/59\/2022\/04\/happy-middle-eastern-couple-searching-new-furnitur-2021-09-02-04-57-13-utc.jpg",
+            "templates": [
+                {
+                    "source": "templates\/homepage.json",
+                    "name": "Homepage"
+                }
+            ],
+            "filesize": 251749,
+            "dimensions": [
+                768,
+                512
+            ],
+            "image_source": "envato_elements",
+            "person_or_place": "yes",
+            "image_urls": "https:\/\/elements.envato.com\/happy-middle-eastern-couple-searching-new-furnitur-FA3F5ZQ"
+        }
+    ]
+}
